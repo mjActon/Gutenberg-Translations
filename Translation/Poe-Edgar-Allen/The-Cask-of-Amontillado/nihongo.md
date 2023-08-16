@@ -27,7 +27,7 @@ I said to him—"My dear Fortunato, you are luckily met. How remarkably well you
 
 <!-- "As you are engaged, I am on my way to Luchesi. -->「フォルトゥナトが忙しいのではルチェシさんに会っていていきます。 If any one has a critical turn, it is he. He will tell me—"
 
-"Luchesi cannot tell Amontillado from Sherry."「ルチェシさんはそれがシェリーかアモンティアードか分かれないよ。」
+<!--"Luchesi cannot tell Amontillado from Sherry."-->「ルチェシさんはそれがシェリーかアモンティアードか分かれないよ。」
 
 "And yet some fools will have it that his taste is a match for your own."
 
