@@ -1,7 +1,7 @@
 # アモンティアードの樽
 著者：エドガー・アラン・ポー
 
-フォルトゥナトの千回の失言をもう堪えって頑張ったけど侮辱の場合は復讐を誓りました。<!-- The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge. -->僕の魂の性質を知る読者さま,脅迫を言ったとあなたが思いませんね。<!--You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat.--> その場合は僕のために復讐します；<!--At length I would be avenged;--> これがもう確実に知ったも、その確実だから警戒は必要になった。<!--this was a point definitely settled—but the very definitiveness with which it was resolved, precluded the idea of risk. --> 僕が処罰するけでは十分ではない；不処罰で処罰することが必要です。<!--I must not only punish, but punish with impunity.--> 補償器を克服する場合では有害なことを補償しらないで、復讐器が侮辱をする人を均等にしれない同じな場合ですよ。<!--A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. -->
+フォルトゥナトの千回の失言をもう堪えって頑張ったけど侮辱の場合は復讐を誓りました。<!-- The thousand injuries of Fortunato[^1] I had borne as I best could, but when he ventured upon insult, I vowed revenge. -->僕の魂の性質を知る読者さま,脅迫を言ったとあなたが思いませんね。<!--You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat.--> その場合は僕のために復讐します；<!--At length I would be avenged;--> これがもう確実に知ったも、その確実だから警戒は必要になった。<!--this was a point definitely settled—but the very definitiveness with which it was resolved, precluded the idea of risk. --> 僕が処罰するけでは十分ではない；不処罰で処罰することが必要です。<!--I must not only punish, but punish with impunity.--> 補償器を克服する場合では有害なことを補償しらないで、復讐器が侮辱をする人を均等にしれない同じな場合ですよ。<!--A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong. -->
 
 It must be understood that neither by word nor deed had I given Fortunato cause to doubt my good will. I continued, as was my wont, to smile in his face, and he did not perceive that my smile now was at the thought of his immolation.
 
@@ -11,21 +11,21 @@ It was about dusk, one evening during the supreme madness of the carnival season
 
 I said to him—"My dear Fortunato, you are luckily met. How remarkably well you are looking to-day! But I have received a pipe of what passes for Amontillado, and I have my doubts."
 
-"How?" said he. "Amontillado? A pipe? Impossible! And in the middle of the carnival!"
+"How?" said he. "Amontillado? A pipe? Impossible! And in the middle of the carnival!"「どう？」「アモンティアード言いますか？」
 
 "I have my doubts," I replied; "and I was silly enough to pay the full Amontillado price without consulting you in the matter. You were not to be found, and I was fearful of losing a bargain."
 
-"Amontillado!"
+"Amontillado!"「アモンティアード！」
 
 "I have my doubts."
 
-"Amontillado!"
+"Amontillado!"「アモンティアード！」
 
 "And I must satisfy them."
 
-"Amontillado!"
+"Amontillado!"「アモンティアード！」
 
-"As you are engaged, I am on my way to Luchesi. If any one has a critical turn, it is he. He will tell me—"
+<!-- "As you are engaged, I am on my way to Luchesi. -->「フォルトゥナトが忙しいのではルチェシさんに会っていていきます。 If any one has a critical turn, it is he. He will tell me—"
 
 "Luchesi cannot tell Amontillado from Sherry."
 
@@ -165,16 +165,18 @@ It was now midnight, and my task was drawing to a close. I had completed the eig
 
 "Yes," I said, "let us be gone."
 
-"For the love of God, Montresor!"
+"For the love of God, Montresor!"「モントレソラさん！」
 
 "Yes," I said, "for the love of God!"
 
 But to these words I hearkened in vain for a reply. I grew impatient. I called aloud—
 
-"Fortunato!"
+「フォルトゥナトさん！」"Fortunato!"
 
 No answer. I called again—
 
-"Fortunato—"
+"Fortunato—"「フォルトゥナトさん」
 
 No answer still. I thrust a torch through the remaining aperture and let it fall within. There came forth in reply only a jingling of the bells. My heart grew sick on account of the dampness of the catacombs. I hastened to make an end of my labour. I forced the last stone into its position; I plastered it up. Against the new masonry I re-erected the old rampart of bones. For the half of a century no mortal has disturbed them. In pace requiescat!
+
+[^1]: 「フォルトゥナト」が英語で「Fortunato」でもロマ語では意味が「幸運な」です。
