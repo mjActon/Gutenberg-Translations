@@ -1,10 +1,7 @@
-The Cask of Amontillado
+# アモンティアードの樽
+著者：エドガー・アラン・ポー
 
-by
-Edgar Allan Poe
-
-
-The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge. You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat. At length I would be avenged; this was a point definitely settled—but the very definitiveness with which it was resolved, precluded the idea of risk. I must not only punish, but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong.
+フォルトゥナトの千回の失言をもう堪えって頑張ったけど侮辱の場合は復讐を誓りました。<!-- The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge. -->　 お読者様、You, who so well know the nature of my soul, will not suppose, however, that I gave utterance to a threat. At length I would be avenged; this was a point definitely settled—but the very definitiveness with which it was resolved, precluded the idea of risk. I must not only punish, but punish with impunity. A wrong is unredressed when retribution overtakes its redresser. It is equally unredressed when the avenger fails to make himself felt as such to him who has done the wrong.
 
 It must be understood that neither by word nor deed had I given Fortunato cause to doubt my good will. I continued, as was my wont, to smile in his face, and he did not perceive that my smile now was at the thought of his immolation.
 
