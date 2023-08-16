@@ -27,17 +27,17 @@ I said to him—"My dear Fortunato, you are luckily met. How remarkably well you
 
 <!-- "As you are engaged, I am on my way to Luchesi. -->「フォルトゥナトが忙しいのではルチェシさんに会っていていきます。 If any one has a critical turn, it is he. He will tell me—"
 
-"Luchesi cannot tell Amontillado from Sherry."
+"Luchesi cannot tell Amontillado from Sherry."「ルチェシさんはそれがシェリーかアモンティアードか分かれないよ。」
 
 "And yet some fools will have it that his taste is a match for your own."
 
-"Come, let us go."
+"Come, let us go."「なぁ、行こう！」
 
-"Whither?"
+"Whither?"「どこへ？」
 
-"To your vaults."
+"To your vaults."「
 
-"My friend, no; I will not impose upon your good nature. I perceive you have an engagement. Luchesi—"
+"My friend, no; I will not impose upon your good nature. I perceive you have an engagement. Luchesi—"「友達さん、いいよ。優しさおを利用しません。忙しそう、ではルチェシさんー」
 
 "I have no engagement;—come."
 
