@@ -1,4 +1,4 @@
-# Gutenberg-Translations
+# subetego
 a repository of works in the public domain and my own translations.
 
 ## Scope
