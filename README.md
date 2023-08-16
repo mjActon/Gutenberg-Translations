@@ -1,4 +1,4 @@
-# subetego
+# subetego（全て語）
 a repository of works in the public domain and my own translations.
 
 ## Scope
